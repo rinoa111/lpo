@@ -1,0 +1,9 @@
+sphinx >= 2.1.2, < 3
+sphinx_rtd_theme >= 0.5
+nbsphinx 
+nbsphinx_link 
+m2r
+matplotlib
+ipython
+pandoc
+git+git://github.com/proycon/sphinx-to-github#egg=sphinxtogithub
