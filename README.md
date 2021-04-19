@@ -17,8 +17,8 @@
 1. [Introduzione](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_0_intro_corso.pdf)
 2. [Le basi della programmazione orientata agli oggetti (parte 1)](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_1_basi_della_OOP.pdf)
 3. [Le basi della programmazione orientata agli oggetti (parte 2)](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_1_basi_della_OOP_parte_2.pdf)
-4. [Le basi della programmazione con il linguaggio Python (parte 1): definizione di classi e creazione di istanze di classe](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_2_basi_Python.pdf)
-5. [Le basi della programmazione con il linguaggio Python (parte 2): le relazioni tra gli oggetti in Python (aggregazione, composizione, ereditarietà)](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_2_basi_Python_parte_2.pdf)
+4. [Le basi della programmazione con il linguaggio Python (parte 1): tipi di dato, operatori, istruzione iterativa, istruzione condizionale while](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_2_basi_Python.pdf)
+5. [Le basi della programmazione con il linguaggio Python (parte 2): le strutture dati tupla, lista, dizionario, il ciclo for, le funzioni](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_2_basi_Python_parte_2.pdf)
 
 
 ## Video delle lezioni
@@ -31,5 +31,8 @@
 - Marzo 17, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (definizione di classi, creazione di istanze di classe) e Organizzare il codice  - ([Lezione_6_1](https://web.microsoftstream.com/video/d54ee6de-9d48-4ab6-8a50-865b48118124)), ([Lezione_6_2](https://web.microsoftstream.com/video/d9426a28-6fe9-4ba4-981e-4e125c6070c5))
 - Marzo 23, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (relazione di composizione e di aggregazione) - ([Lezione_7_1](https://web.microsoftstream.com/video/83d7a258-7394-4022-bf2d-bf1b6c22fcbe)), ([Lezione_7_2](https://web.microsoftstream.com/video/97f10798-2fe4-4b1a-9e2e-242f5d8d5575))
 - Marzo 24, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (ereditarietà singola) - ([Lezione_8_1](https://web.microsoftstream.com/video/34b8d788-57fb-4e58-8773-f7af0be97e8b))
+- Marzo 30, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (attributi e metodi di classe) - ([Lezione_9_1](https://web.microsoftstream.com/video/b64346b5-c82c-4118-80a3-5b1db2d28b27))
+- Marzo 31, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (ereditarietà singola) - ([Lezione_10_1](https://web.microsoftstream.com/video/f63eb777-bc5c-4e8f-91e7-cfdf855880d1)), ([Lezione_10_2](https://web.microsoftstream.com/video/62b85f94-d9c3-4cc3-b3fe-72a4f06db3b3))
+- Aprile 07, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (le classi astratte) - ([Lezione_11_1](https://web.microsoftstream.com/video/78448b4b-3d76-41c0-941b-4ded5f2da60d))
 
 
