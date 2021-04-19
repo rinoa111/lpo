@@ -19,6 +19,11 @@
 3. [Le basi della programmazione orientata agli oggetti (parte 2)](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_1_basi_della_OOP_parte_2.pdf)
 4. [Le basi della programmazione con il linguaggio Python (parte 1): tipi di dato, operatori, istruzione iterativa, istruzione condizionale while](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_2_basi_Python.pdf)
 5. [Le basi della programmazione con il linguaggio Python (parte 2): le strutture dati tupla, lista, dizionario, il ciclo for, le funzioni](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_2_basi_Python_parte_2.pdf)
+6. [La programmazione ad oggetti con il linguaggio Python (parte 1): definizione di classi, creazione di istanze](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_1.pdf)
+7. [La programmazione ad oggetti con il linguaggio Python (parte 2): le relazioni di composizione, aggregazione, ereditarietà in Python](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_2.pdf)
+8. [La programmazione ad oggetti con il linguaggio Python (parte 3): attributi di classe, metodi di classe, metodi statici](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_3.pdf)
+8. [La programmazione ad oggetti con il linguaggio Python (parte 4): spiegazione dettagliata del processo di creazione degli oggetti in Python, il metodo __new__, la classe object](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_4.pdf)
+
 
 
 ## Video delle lezioni
