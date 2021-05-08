@@ -13,6 +13,7 @@
 
 ## Slides
 **Parte I**
+
 1. [Introduzione](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_0_intro_corso.pdf)
 2. [Le basi della programmazione orientata agli oggetti (parte 1)](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_1_basi_della_OOP.pdf)
 3. [Le basi della programmazione orientata agli oggetti (parte 2)](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_1_basi_della_OOP_parte_2.pdf)
@@ -24,7 +25,9 @@
 9. [La programmazione ad oggetti con il linguaggio Python (parte 3): attributi di classe, metodi di classe, metodi statici](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_3.pdf)
 10. [La programmazione ad oggetti con il linguaggio Python (parte 4): spiegazione dettagliata del processo di creazione degli oggetti in Python, il metodo __new__, la classe object](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_4.pdf)
 11. [La programmazione ad oggetti con il linguaggio Python (parte 5): i metodi setter e getter](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_5.pdf)
+
 **Parte II**
+
 12. [La programmazione ad oggetti con il linguaggio Python (parte 6): le classi astratte](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_6.pdf)
 13. [La programmazione ad oggetti con il linguaggio Python (parte 7): l'ereditarietà multipla e le classi mixin](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_7.pdf)
 14. [La programmazione ad oggetti con il linguaggio Python (parte 8): estendere classi built-in](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_8.pdf)
@@ -34,6 +37,7 @@
 
 ## Video delle lezioni
 **Parte I**
+
 - Marzo 02, 2020 - Introduzione del corso & le basi della programmazione ad oggetti - ([Lezione_1_1](https://web.microsoftstream.com/video/68a71e6a-b267-459b-8c8a-5c122e50492e)), ([Lezione_1_2](https://web.microsoftstream.com/video/90ee7023-cbfe-4acb-b892-136659ba2e85)) 
 - Marzo 03, 2020 - Esercizi sulle basi della programmazione ad oggetti & Le basi della programmazione con il linguaggio Python - ([Lezione_2_1](https://web.microsoftstream.com/video/884336de-918f-4d2c-ae3d-e7286c6ce20f)), ([Lezione_2_2](https://web.microsoftstream.com/video/d7065748-4562-4978-bfc0-7ebc6217a519)) 
 - Marzo 09, 2020 - Le basi della programmazione con il linguaggio Python - ([Lezione_3_1](https://web.microsoftstream.com/video/4742c0c0-21a3-4336-9226-511f01e9b8bb)), ([Lezione_3_2](https://web.microsoftstream.com/video/60aa91a5-020e-48d6-884f-ef078eb9f7d8)) 
@@ -46,7 +50,9 @@
 - Marzo 31, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (ereditarietà singola) - ([Lezione_10_1](https://web.microsoftstream.com/video/f63eb777-bc5c-4e8f-91e7-cfdf855880d1)), ([Lezione_10_2](https://web.microsoftstream.com/video/62b85f94-d9c3-4cc3-b3fe-72a4f06db3b3))
 - Aprile 07, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (le classi astratte) - ([Lezione_11_1](https://web.microsoftstream.com/video/78448b4b-3d76-41c0-941b-4ded5f2da60d))
 - Aprile 20, 2020 - Le basi della programmazione ad oggetti con il linguaggio Python (i metodi getter e setter) - ([Lezione_12_1](https://web.microsoftstream.com/video/7ecc3cfc-5fb6-403c-8714-06998b2e1f5f))
+
 **Parte II**
+
 - Aprile 21, 2020 - La programmazione ad oggetti con il linguaggio Python (l'ereditarietà multipla e le classi mixin) - ([Lezione_12_1](https://web.microsoftstream.com/video/9e057ce1-40d5-472f-96c8-55bea122f86a))
 - Aprile 27, 2020 - La programmazione ad oggetti con il linguaggio Python (le eccezioni parte 1) - ([Lezione_13_1](https://web.microsoftstream.com/video/0b3fd275-002a-4bd3-8dbf-cd5215d74843))
 - Aprile 28, 2020 - La programmazione ad oggetti con il linguaggio Python (le eccezioni parte 2) - ([Lezione_14_1](https://web.microsoftstream.com/video/d10a5992-a921-40ab-b17f-1bd3f3beb5fb))
