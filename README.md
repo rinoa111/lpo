@@ -33,7 +33,6 @@
 14. [La programmazione ad oggetti con il linguaggio Python (parte 8): estendere classi built-in](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_8.pdf)
 15. [La programmazione ad oggetti con il linguaggio Python (parte 9): gestione delle eccezioni](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_9.pdf)
 16. [La programmazione ad oggetti con il linguaggio Python (parte 10): oggetti iteratori e oggetti iterabili](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_10.pdf)
-17. [La programmazione ad oggetti con il linguaggio Python (parte 11): gli oggetti di tipo stringa e le espressioni regolari](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_11.pdf)
 
 
 ## Video delle lezioni
@@ -59,8 +58,7 @@
 - Aprile 28, 2020 - La programmazione ad oggetti con il linguaggio Python (le eccezioni parte 2) - ([Lezione_15_1](https://web.microsoftstream.com/video/d10a5992-a921-40ab-b17f-1bd3f3beb5fb))
 - Maggio 04, 2020 - La programmazione ad oggetti con il linguaggio Python (gli oggetti iteratori e gli oggetti iterabili) - ([Lezione_16_1](https://web.microsoftstream.com/video/441864ca-4ccc-4d05-840f-3672f0a3839f))
 - Maggio 05, 2020 - La programmazione ad oggetti (gli oggetti di tipo stringa e le espressioni regolari) - ([Lezione_17_1](https://web.microsoftstream.com/video/c22f150a-2bb2-464a-90a2-991a550b324a))
-- Maggio 11, 2020 - La programmazione ad oggetti (gli oggetti di tipo file) - ([Lezione_18_1](https://web.microsoftstream.com/video/c19327c9-1835-46cf-bdf0-69821ea5b99f))
-- Maggio 12, 2020 - La programmazione ad oggetti (la serializzazione degli oggetti) - ([Lezione_19_1](https://web.microsoftstream.com/video/0d5467b2-4bc6-4059-88bb-9863ae8f57eb)), ([Lezione_19_2](https://web.microsoftstream.com/video/f574a33f-361b-4baf-8cb8-f284b83fb51d))
+
 
 
 
