@@ -34,6 +34,12 @@
 15. [La programmazione ad oggetti con il linguaggio Python (parte 9): gestione delle eccezioni](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_9.pdf)
 16. [La programmazione ad oggetti con il linguaggio Python (parte 10): oggetti iteratori e oggetti iterabili](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_10.pdf)
 17. [La programmazione ad oggetti con il linguaggio Python (parte 11): gli oggetti di tipo stringa e le espressioni regolari](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_11.pdf)
+18. [La programmazione ad oggetti con il linguaggio Python (parte 12): gli oggetti di tipo file](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_12.pdf)
+19. [La programmazione ad oggetti con il linguaggio Python (parte 13): la serializzazione degli oggetti](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_13.pdf)
+20. [La programmazione ad oggetti con il linguaggio Python (parte 14): utilizzare OOP per interpretare dei dati](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_14.pdf)
+21. [La programmazione ad oggetti con il linguaggio Python (parte 15): gli oggetti di tipo funzione](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_15.pdf)
+22. [Note sullo zucchero sintattico in Python](zucchero_sintattico)
+23. [La programmazione ad oggetti con il linguaggio Python (parte 16): prototipare programmi di media complessità da implementare in Python](https://github.com/unica-lpo/lpo/blob/master/slides/LPO_3_gli_oggetti_in_python_parte_16.pdf)
 
 
 ## Video delle lezioni
@@ -61,4 +67,5 @@
 - Maggio 05, 2020 - La programmazione ad oggetti (gli oggetti di tipo stringa e le espressioni regolari) - ([Lezione_17_1](https://web.microsoftstream.com/video/c22f150a-2bb2-464a-90a2-991a550b324a))
 - Maggio 11, 2020 - La programmazione ad oggetti (gli oggetti di tipo file) - ([Lezione_18_1](https://web.microsoftstream.com/video/c19327c9-1835-46cf-bdf0-69821ea5b99f))
 - Maggio 12, 2020 - La programmazione ad oggetti (la serializzazione degli oggetti) - ([Lezione_19_1](https://web.microsoftstream.com/video/0d5467b2-4bc6-4059-88bb-9863ae8f57eb)), ([Lezione_19_2](https://web.microsoftstream.com/video/f574a33f-361b-4baf-8cb8-f284b83fb51d))
+- Maggio 19, 2020 - La programmazione ad oggetti (utilizzare OOP per interpretare i dati, gli oggetti di tipo funzione, zucchero sisntattico e progettare programmi di media complessità da implementare in Python) - ([Lezione_20_1](https://web.microsoftstream.com/video/c5117392-7ab2-4834-b669-344a66f7adff)), ([Lezione_20_2](https://web.microsoftstream.com/video/67fab035-5412-4d2d-9d33-f31ce0df6de8))
 
